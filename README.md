@@ -1,4 +1,4 @@
-# deca-blog
+# The-Blog
 A capstone project by .NET SQ009. It features article writing by deca devs and other members on the platform, review and publishing by editors, commenting, likes and sharing by members on the platform 
 
 ## Tools to be featured in this app
